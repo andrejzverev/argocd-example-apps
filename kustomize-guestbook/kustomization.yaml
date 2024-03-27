@@ -1,5 +1,4 @@
 namePrefix: kustomize-
-namespace: stress
 
 resources:
   - guestbook-ui-deployment.yaml
